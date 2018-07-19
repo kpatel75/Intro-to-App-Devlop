@@ -37,6 +37,8 @@ namespace Northwind.Data.Entities
 
         [Key]
         public int ProductID { get; set; }
+        [Required(ErrorMessage ="Product name is required")]
+        [StringLength(40,ErrorMessage ="Product name is limited to 40 characters")]
         public string ProductName { get; set; }
         public int? SupplierID { get; set; } //foreign key
         public int? CategoryID { get; set; } //foreign key

@@ -11,3 +11,16 @@ C:\Users\dwelch\Documents\GitHub\ClassroomDemos\CSAspx\NorthwindSystem\bin\Debug
 C:\Users\dwelch\Documents\GitHub\ClassroomDemos\CSAspx\NorthwindSystem\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\dwelch\Documents\GitHub\ClassroomDemos\CSAspx\NorthwindSystem\bin\Debug\EntityFramework.xml
 C:\Users\dwelch\Documents\GitHub\ClassroomDemos\CSAspx\NorthwindSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\NorthwindSystem.dll.config
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\NorthwindSystem.dll
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\NorthwindSystem.pdb
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\EntityFramework.dll
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\Northwind.Data.dll
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\Northwind.Data.pdb
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\EntityFramework.xml
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\obj\Debug\NorthwindSystem.csprojResolveAssemblyReference.cache
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\obj\Debug\NorthwindSystem.csproj.CoreCompileInputs.cache
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\obj\Debug\NorthwindSystem.dll
+C:\Users\kpatel75\Documents\GitHub\Intro-to-App-Devlop\CSAspx\NorthwindSystem\obj\Debug\NorthwindSystem.pdb
